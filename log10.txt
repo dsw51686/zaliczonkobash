@@ -1,0 +1,3 @@
+Nazwa pliku: log10.txt
+Nazwa skryptu: ./skrypt1.sh
+Data: 2023-06-25
